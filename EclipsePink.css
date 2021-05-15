@@ -1,0 +1,24 @@
+/**
+ * @name EclipsePink
+ * @author Next
+ * @description Simple Dark Theme
+ * @version 1.2
+ * @authorId 319955529873227787
+ */
+ @import url(https://raw.githubusercontent.com/groggyf/eclipseversions/main/EclipsePink.css?token=AUCWSYHHIKBHP77FYMMEPWTAT7XAA);
+ :root {
+    --rgb: 255, 187, 0; /* Main color */
+    --main-black: #001116;
+    --secondary-black: #032935;
+    --third-black: #011e27;
+    --fourth-black: #032935;
+    --header-primary: #ffffff;
+    --header-secondary: #fff;
+    --channels-default: #fff;
+    --text-muted: #ffbb00;
+    --interactive-muted: #1a6a79;
+    --interactive-hover: #ffbb00;
+    --interactive-active: #ffbb00;
+    --interactive-normal: #fff;
+    --text-normal: #fff;
+  }
